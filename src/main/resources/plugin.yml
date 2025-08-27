@@ -1,0 +1,6 @@
+name: BlockMSG
+version: '1.0'
+main: politgame.Niky.BlockMSG
+api-version: '1.21'
+depend:
+  - ProtocolLib
